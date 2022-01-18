@@ -1,4 +1,5 @@
 import numpy as np
+import torch
 
 from utils import data_process, RMSE
 from model import PMF
